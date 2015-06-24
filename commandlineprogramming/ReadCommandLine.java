@@ -1,3 +1,6 @@
+/** Purpose: Basic Command Line Programming in Java */
+
+
 package commandlineprogramming;
 
 public class ReadCommandLine {

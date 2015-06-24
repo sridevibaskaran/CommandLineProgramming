@@ -1,3 +1,6 @@
+/** Purpose: Encode and Decode a file in Java */
+
+
 package commandlineprogramming;
 
 import java.io.BufferedReader;
@@ -11,7 +14,7 @@ public class EncodeFile {
 		try{
 			BufferedReader br = new BufferedReader(new FileReader("/Users/yogeshchinta/Documents/encode.txt"));
 			String currentLine;
-			
+		
 			while((currentLine=br.readLine()) != null){
 				String str = currentLine;
 				System.out.println("Text: " + str);

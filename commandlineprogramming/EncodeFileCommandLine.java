@@ -1,3 +1,6 @@
+/** Purpose: Encode and Decode command line arguments in Java */
+
+
 package commandlineprogramming;
 
 import java.io.BufferedReader;
